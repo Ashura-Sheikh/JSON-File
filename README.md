@@ -1,1 +1,1 @@
-# JSON-File = Reading through Json file and using for loop to ectract required data and analyse it further into automation.
+# JSON-File = Reading through Json file and using for loop to extract required data and work through further into automation.
