@@ -6,10 +6,11 @@ file = open('employee.json','r')
 Data = file.read()
 
 
+
 # parse
 obj = json.loads(Data)
 
-print(str(obj['firstName']))
+print(str(obj['Name']))
 print(str(obj['lastName']))
 
 

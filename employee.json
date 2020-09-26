@@ -1,7 +1,7 @@
 {
     "Name": "John",
     "lastName": "Kennedy",
-    "isProgrammer": True,
+    "isProgrammer": true,
     "Hobbies": ["Soccer", "Games", "Reading"],
     "address": [
       {
