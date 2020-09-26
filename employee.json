@@ -1,6 +1,8 @@
 {
-    "firstName": "John",
+    "Name": "John",
     "lastName": "Kennedy",
+    "isProgrammer": True,
+    "Hobbies": ["Soccer", "Games", "Reading"],
     "address": [
       {
             "street": "abc",
@@ -15,4 +17,3 @@
 
     ]
   }
-        
