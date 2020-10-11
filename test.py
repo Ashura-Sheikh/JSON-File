@@ -38,6 +38,8 @@ obj = json.loads(data)
 
 
 
+
+
 #for key, value in obj.items():
 #    print(key,value)
 
@@ -55,7 +57,7 @@ print('- ' * 20)
 
 # Convert back to JSON for nicer printing
 print(json.dumps(obj, indent=4))
+#print(len(obj["Transaction_22"]["Name"]))
 
-
-with open("Transaction-Data", 'w') as f:
-    json.dump(obj, f, indent=2)
+#with open("Transaction-Data", 'w') as f:
+#    json.dump(obj, f, indent=2)
