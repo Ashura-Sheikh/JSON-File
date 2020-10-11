@@ -1,7 +1,7 @@
 {
     "Name": "John",
     "lastName": "Kennedy",
-    "isProgrammer": true,
+    "isProgrammer": "yes",
     "Hobbies": ["Soccer", "Games", "Reading"],
     "address": [
       {
@@ -14,6 +14,5 @@
             "city": "Chennai",
             "state": "TN"
       }
-
-    ]
-  }
+    ],
+}
